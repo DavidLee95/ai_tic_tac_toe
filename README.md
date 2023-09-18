@@ -14,17 +14,14 @@ In AI Tic Tac Toe, the user chooses a symbol, either an "X" or "O". Since "X" al
 
 <div align="center">
     <img src="images/game_xwins.png" width="500" />
-    <figcaption style="font-size: 30px;">(When X wins)</figcaption>
 </div>
 
 <div align="center">
     <img src="images/game_owins.png" width="500" />
-    <figcaption style="font-size: 30px;">(When O wins)</figcaption>
 </div>
 
 <div align="center">
     <img src="images/game_tie.png" width="500" />
-    <figcaption style="font-size: 30px;">(When the game is a tie)</figcaption>
 </div>
 
 ## Graphical User Interface (GUI)
